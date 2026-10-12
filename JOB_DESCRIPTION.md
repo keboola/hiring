@@ -1,20 +1,13 @@
 # AI Transformation Consultant
 
 **Company:** Keboola  
-**Location:** Prague (hybrid) · EU travel as needed  
+**Location:** Prague (office-based, 5 days a week when not with customers) · client travel as needed  
 **Type:** Full-time  
-**Language:** English (working) · Czech a plus  
+**Language:** Czech and English (both at working level)
+**Reports to:** Chief Customer Transformations Officer  
 **Level:** Mid–Senior Consultant  
 
 Apply by opening a pull request into the `ai-transformation-consultant` branch. See the repo [README](./README.md) for the application packet and PR title format.
-
----
-
-## Assumptions for editors (remove before final publish if desired)
-
-- Comp / equity band: **[PLACEHOLDER]**
-- Reporting line: **[PLACEHOLDER — e.g. Professional Services]**
-- Public proof points in “About”: keep only what Legal/Comms approve
 
 ---
 
@@ -28,9 +21,13 @@ We don’t hire for another chatbot bolted onto last decade’s SaaS. We hire pe
 
 ## The role — unit of ownership
 
-**You own client AI transformation workstreams end-to-end:** from first diagnosis and value map → prioritized process rebuild → governed data/AI foundation on Keboola → enablement so the client’s team can run without you.
+**You own client AI transformation workstreams end-to-end, and ideally your own P&L:** from first diagnosis and value map → prioritized process rebuild → governed data/AI foundation on Keboola → enablement so the client’s team can run without you.
 
-You are the person in the room who can talk to a CFO *and* sit with operators and builders — designing the engagement and shipping measurable outcomes (cost out, cycle-time, quality), not slideware.
+You are the person in the room who can talk to a CFO *and* sit with operators and builders — designing the engagement, delivering value-based outcomes (cost out, cycle-time, quality), and bringing in the next deal.
+
+**Time split:** about 60% delivery, 40% new business. You bring your own pipeline and close your own deals.
+
+**Remuneration:** includes commission on new deals you bring in and on customer projects you deliver.
 
 ---
 
@@ -43,7 +40,9 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 - Facilitate change: stakeholders, ownership, risk, and human-approval guardrails so trust scales with automation.
 - Coach client teams to independence; measure ROI per process and kill what doesn’t pay.
 - Capture patterns into reusable playbooks and offers; feed learning back into Keboola product and services.
-- Partner with sales and leadership on scoping, proposals, and executive storytelling.
+- Build and own your pipeline: source, scope, propose, and close new engagements.
+- Run value-based delivery: agree measurable client outcomes up front and price and report against them.
+- Own the commercial result of your engagements (ideally your own P&L).
 
 ---
 
@@ -52,6 +51,8 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 - Multiple client workstreams delivered with **clear before/after** (cost, time, quality, or FTE-equivalent).
 - At least one **referenceable** transformation story the practice can reuse.
 - Client teams running without you on the processes you rebuilt.
+- A self-generated pipeline and closed deals that keep your book of work full.
+- Healthy margin on the engagements you own.
 - Playbooks and workshop assets improved from real delivery, not theory.
 
 ---
@@ -59,15 +60,18 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 ## Required (we will specifically evaluate)
 
 - 4+ years in management consulting, digital / data transformation, professional services, or an in-house transformation / CoE role — **or equivalent evidence** of owning complex change with measurable outcomes.
-- Proven ability to facilitate executives *and* delivery teams; excellent structured communication in English.
+- Proven ability to facilitate executives *and* delivery teams; excellent structured communication in **Czech and English** at working level.
+- A track record of generating your own pipeline and closing consulting or services deals.
+- Experience with value-based delivery, where engagements are scoped and measured on client outcomes.
 - Experience translating ambiguous business pain into scoped engagements, milestones, and ROI hypotheses.
 - **Hands-on with modern AI tooling** (you don’t need to be an ML researcher; you do need to know what’s real vs demo, and use tools in real work).
 - Bias to shipping: workshops and decks matter, but you judge yourself on **live processes**, not slides.
-- Willingness to travel occasionally within the EU and work hybrid from Prague (or agreed EU base).
+- Based in Prague and working from the office 5 days a week when not on site with customers.
 
 ## Nice to have
 
-- Czech (or another CEE language) for local client work.
+- Another CEE language for local client work.
+- P&L ownership for a practice, team, or portfolio of engagements.
 - Prior work with Keboola, Snowflake / BigQuery / Databricks / Fabric, or similar governed data stacks.
 - Change management, operating-model design, or value-chain mapping experience.
 - Built or run agentic workflows, internal tools, or “replace the SaaS UI” style rebuilds.
@@ -81,6 +85,8 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 - You want to be a pure ML researcher or model trainer — we rebuild how companies operate; we don’t train frontier models for clients.
 - You prefer multi-year SI programs with status packs and no production cutover.
 - You’re looking for a body-shop staffing role with no ownership of outcomes.
+- You want delivery only and expect someone else to bring the deals.
+- You want a remote or hybrid role.
 - You need a fully settled playbook before you can move — this work invents with clients in the open.
 
 ---
