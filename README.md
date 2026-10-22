@@ -92,11 +92,14 @@ Example: `Application: AI Transformation Consultant — Ada Lovelace`
 1. Branch from `main`: `git checkout -b <role-slug>`.
 2. Add `JOB_DESCRIPTION.md` (and optional `RUBRIC.md` for interviewers — keep private notes out of this public repo).
 3. Update the roles table on `main` (via PR to `main`).
-4. Candidates open PRs **into `<role-slug>`**, not into `main`.
+4. Before accepting applications, add `refs/heads/<role-slug>` to the active [Preserve role history ruleset](https://github.com/keboola/hiring/rules/25629741). Confirm deletion and force-push protection applies to the new branch; new role branches are not included automatically.
+5. Candidates open PRs **into `<role-slug>`**, not into `main`.
 
 ### Closing and reopening a role
 
 Role branches are permanent records, not feature branches to merge when hiring ends.
+
+The **Preserve role history** ruleset blocks deletion and force-pushes on registered role branches, with no bypass actors. Normal updates remain allowed. Administrators can still change the ruleset; this is not an immutable backup.
 
 1. Add a dated **Closed** notice to `JOB_DESCRIPTION.md` on the role branch, keeping the job description below it.
 2. Keep the role’s row in the roles table on `main` and mark it **Closed** via a PR. Do not remove the row or its branch reference.
