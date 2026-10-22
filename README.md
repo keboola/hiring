@@ -1,6 +1,6 @@
 # Keboola hiring
 
-We hire in the open. Every open role lives as a **branch** in this repository. You apply by opening a **pull request** against that role’s branch.
+We hire in the open. Every open role lives as a **branch** in this repository. Apply by opening a **pull request** against that role’s branch, or [reach out privately](#applying-privately) if you prefer to keep your application private.
 
 ## How it works
 
@@ -11,6 +11,12 @@ We hire in the open. Every open role lives as a **branch** in this repository. Y
 5. We review the PR as your application. We may ask follow-ups in PR comments.
 
 `main` holds only this process and shared templates. Role-specific content lives on role branches.
+
+## Applying privately
+
+You do not have to submit a public PR if you prefer to keep your job search private. We expect you to take the initiative and find a private way to reach us — for example, by emailing jobs@keboola.com. Include the role title and the same information requested in `APPLICATION.md` below.
+
+This repository and its pull requests are public. Do not post information you want to keep private.
 
 ## What to put in your application PR
 
