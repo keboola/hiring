@@ -14,7 +14,7 @@ We hire in the open. Every open role lives as a **branch** in this repository. A
 
 ## Applying privately
 
-You do not have to submit a public PR if you prefer to keep your job search private. We expect you to take the initiative and find a private way to reach us — for example, by emailing jobs@keboola.com. Include the role title and the same information requested in `APPLICATION.md` below.
+You do not have to submit a public PR if you prefer to keep your job search private. We expect you to take the initiative and figure out how to submit your application privately. Include the role title and the same information requested in `APPLICATION.md` below.
 
 This repository and its pull requests are public. Do not post information you want to keep private.
 
@@ -77,7 +77,7 @@ Example: `Application: AI Transformation Consultant — Ada Lovelace`
 - Shortlisted candidates get an interview invite (email or PR comment).
 - We close the PR when the process for you ends (hire, decline, or withdrawn). Please don’t reopen closed application PRs; open a new one if a role is still hiring.
 
-## Open roles
+## Roles — open and closed
 
 | Role | Branch | Status |
 |------|--------|--------|
@@ -91,8 +91,23 @@ Example: `Application: AI Transformation Consultant — Ada Lovelace`
 
 1. Branch from `main`: `git checkout -b <role-slug>`.
 2. Add `JOB_DESCRIPTION.md` (and optional `RUBRIC.md` for interviewers — keep private notes out of this public repo).
-3. Update the Open roles table on `main` (via PR to `main`).
+3. Update the roles table on `main` (via PR to `main`).
 4. Candidates open PRs **into `<role-slug>`**, not into `main`.
+
+### Closing and reopening a role
+
+Role branches are permanent records, not feature branches to merge when hiring ends.
+
+1. Add a dated **Closed** notice to `JOB_DESCRIPTION.md` on the role branch, keeping the job description below it.
+2. Keep the role’s row in the roles table on `main` and mark it **Closed** via a PR. Do not remove the row or its branch reference.
+3. Close outstanding application PRs with a candidate-facing explanation. Do not merge applications into the role branch or `main`.
+4. Keep the role branch and existing PR links. Do not delete the branch, merge it into `main`, force-push, or rewrite its history. Record later changes as new commits.
+
+Job description revisions remain in the role branch’s Git history. Application submissions, reviews, and discussion remain in their PRs; unmerged applications are not part of the role branch itself. A branch alone is not a backup of GitHub PR records.
+
+To reopen the same role, reuse its branch, add a dated **Reopened** notice, and mark its table row **Open** via a PR to `main`. Candidates submit new application PRs rather than reopening closed ones.
+
+Keep private applications and internal assessments outside this public repository. Personal-data removal obligations take precedence over retention; handle any necessary removal separately rather than treating role closure as permission to erase history.
 
 ### Reviewing applications
 
@@ -101,12 +116,11 @@ Example: `Application: AI Transformation Consultant — Ada Lovelace`
 
 ## Equal opportunity
 
-Keboola is an equal opportunity employer. If you need accommodations in the hiring process, say so in your `APPLICATION.md` or email jobs@keboola.com.
+Keboola is an equal opportunity employer. If you need accommodations in the hiring process, let us know when you apply.
 
 ## Questions
 
-Process questions: open a Discussion or email jobs@keboola.com.  
-Don’t use application PRs for general Q&A.
+General process questions: open a Discussion. Don’t use application PRs for general Q&A.
 
 ---
 
