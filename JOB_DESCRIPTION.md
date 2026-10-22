@@ -23,11 +23,11 @@ We don’t hire for another chatbot bolted onto last decade’s SaaS. We hire pe
 
 **You own client AI transformation workstreams end-to-end, and ideally your own P&L:** from first diagnosis and value map → prioritized process rebuild → governed data/AI foundation on Keboola → enablement so the client’s team can run without you.
 
-You are the person in the room who can talk to a CFO *and* sit with operators and builders — designing the engagement, delivering value-based outcomes (cost out, cycle-time, quality), and bringing in the next deal.
+You are the person in the room who can talk to a CFO *and* sit with operators and builders — designing the engagement, delivering value-based outcomes (cost out, cycle-time, quality), and bringing in the next deal. When it’s the faster way to deliver, you also roll up your sleeves and make code changes with your AI coding agent.
 
 **Time split:** about 60% delivery, 40% new business. You bring your own pipeline and close your own deals.
 
-**Remuneration:** includes commission on new deals you bring in and on customer projects you deliver.
+**Remuneration:** fixed base pay plus commission on new deals you bring in and on customer projects you deliver.
 
 ---
 
@@ -40,6 +40,7 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 - Facilitate change: stakeholders, ownership, risk, and human-approval guardrails so trust scales with automation.
 - Coach client teams to independence; measure ROI per process and kill what doesn’t pay.
 - Capture patterns into reusable playbooks and offers; feed learning back into Keboola product and services.
+- Train Keboola partners to understand and deliver this transformation approach themselves, using practical delivery lessons and playbooks.
 - Build and own your pipeline: source, scope, propose, and close new engagements.
 - Run value-based delivery: agree measurable client outcomes up front and price and report against them.
 - Own the commercial result of your engagements (ideally your own P&L).
@@ -85,6 +86,7 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 - You want to be a pure ML researcher or model trainer — we rebuild how companies operate; we don’t train frontier models for clients.
 - You prefer multi-year SI programs with status packs and no production cutover.
 - You’re looking for a body-shop staffing role with no ownership of outcomes.
+- You want to consult without hands-on delivery.
 - You want delivery only and expect someone else to bring the deals.
 - You want a remote or hybrid role.
 - You need a fully settled playbook before you can move — this work invents with clients in the open.
@@ -93,6 +95,7 @@ You are the person in the room who can talk to a CFO *and* sit with operators an
 
 ## How we work
 
+- AI-empowered transformation: we use AI in our own delivery, not just recommend it to clients.
 - Governed from day one: roles, rules, approvals — agents beside people, not shadow IT.
 - Client data stays in their world where it should.
 - We transform how clients work; we are not a body shop.
@@ -116,6 +119,6 @@ Questions about the role: jobs@keboola.com. Don’t use application PRs for gene
 
 ---
 
-## Equal opportunity
+## Equal opportunity and meritocracy
 
-Keboola is an equal opportunity employer. We welcome applicants of all backgrounds. If you need accommodations in the hiring process, say so in your application or email jobs@keboola.com.
+Keboola is an equal opportunity employer. We welcome applicants of all backgrounds and evaluate candidates on demonstrated ability and outcomes. If you need accommodations in the hiring process, say so in your application or email jobs@keboola.com.
